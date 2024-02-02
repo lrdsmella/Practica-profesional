@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.1)  2 FEB 2024 10:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.1)  2 FEB 2024 10:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -625,24 +625,13 @@ Package hyperref Info: Link coloring ON on input line 56.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-
-
-LaTeX Warning: File `logo_usach.png' not found on input line 60.
-
-
-c:/Users/Lourdes/Desktop/Informe práctica/Documento/main.tex:60: Package pdftex.def Error: File `logo_usach.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.60 ...phics[width=0.7\textwidth]{logo_usach.png}
-                                                  \\[1cm]
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<images/logo_usach.png, id=43, 206.7725pt x 245.91875pt>
+File: images/logo_usach.png Graphic file (type png)
+<use images/logo_usach.png>
+Package pdftex.def Info: images/logo_usach.png  used on input line 60.
+(pdftex.def)             Requested size: 328.82707pt x 391.1215pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
-(C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
@@ -650,7 +639,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/Lourdes/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
+{C:/Users/Lourdes/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo_usach.png>] [2] (C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
@@ -677,57 +666,24 @@ Overfull \hbox (1.07031pt too wide) in paragraph at lines 188--189
 []\OT1/cmr/m/it/10 Coraje pa-ra li-de-rar: \OT1/cmr/m/n/10 ``Nos des-ta-ca-mos por asu-mir la res-pon-sa-bi-li-dad y li-de-rar con va-lent^^S^^Pa, bas^^Sando-
  []
 
-
-LaTeX Warning: File `EY_logo.png' not found on input line 196.
-
-
-c:/Users/Lourdes/Desktop/Informe práctica/Documento/main.tex:196: Package pdftex.def Error: File `EY_logo.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.196     \includegraphics[scale=0.2]{EY_logo.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<images/EY_logo.png, id=75, 803.0pt x 803.0pt>
+File: images/EY_logo.png Graphic file (type png)
+<use images/EY_logo.png>
+Package pdftex.def Info: images/EY_logo.png  used on input line 196.
+(pdftex.def)             Requested size: 160.59715pt x 160.59715pt.
 [3]
-
-LaTeX Warning: File `industria.png' not found on input line 208.
-
-
-c:/Users/Lourdes/Desktop/Informe práctica/Documento/main.tex:208: Package pdftex.def Error: File `industria.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.208 ...phics[width=0.8\textwidth]{industria.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[4]
-
-LaTeX Warning: File `mantenimiento.png' not found on input line 241.
-
-
-c:/Users/Lourdes/Desktop/Informe práctica/Documento/main.tex:241: Package pdftex.def Error: File `mantenimiento.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.241 ...s[width=0.7\textwidth]{mantenimiento.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[5] [6] 
+<images/industria.png, id=82, 326.72063pt x 190.21063pt>
+File: images/industria.png Graphic file (type png)
+<use images/industria.png>
+Package pdftex.def Info: images/industria.png  used on input line 208.
+(pdftex.def)             Requested size: 375.80544pt x 218.78696pt.
+ [4 <./images/EY_logo.png> <./images/industria.png>]
+<images/mantenimiento.png, id=90, 350.81062pt x 186.19562pt>
+File: images/mantenimiento.png Graphic file (type png)
+<use images/mantenimiento.png>
+Package pdftex.def Info: images/mantenimiento.png  used on input line 241.
+(pdftex.def)             Requested size: 328.82707pt x 174.54091pt.
+ [5 <./images/mantenimiento.png>] [6] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
 LaTeX Info: Redefining \. on input line 13.
@@ -741,17 +697,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 59D378587E08D9EEE507BA28FE8388F8;1560.
  ) 
 Here is how much of TeX's memory you used:
- 22053 strings out of 474486
- 378081 string characters out of 5742812
- 1939542 words of memory out of 5000000
- 44000 multiletter control sequences out of 15000+600000
- 562753 words of font info for 54 fonts, out of 8000000 for 9000
+ 21958 strings out of 474486
+ 375958 string characters out of 5742812
+ 1938542 words of memory out of 5000000
+ 43906 multiletter control sequences out of 15000+600000
+ 562585 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,11n,93p,2396b,551s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.pdf" (8 pages, 135528 bytes).
+<C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Lourdes/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.pdf" (8 pages, 318873 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
+ 135 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

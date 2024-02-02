@@ -256,7 +256,13 @@ OUTPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.pdf
 INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
 INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
 OUTPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
-INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT .\images\logo_usach.png
+INPUT .\images\logo_usach.png
+INPUT .\images\logo_usach.png
+INPUT .\images\logo_usach.png
+INPUT .\images\logo_usach.png
+INPUT .\images\logo_usach.png
+INPUT .\images\logo_usach.png
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -285,6 +291,27 @@ INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.
 OUTPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT .\images\EY_logo.png
+INPUT .\images\EY_logo.png
+INPUT .\images\EY_logo.png
+INPUT .\images\EY_logo.png
+INPUT .\images\EY_logo.png
+INPUT .\images\EY_logo.png
+INPUT .\images\EY_logo.png
+INPUT .\images\industria.png
+INPUT .\images\industria.png
+INPUT .\images\industria.png
+INPUT .\images\industria.png
+INPUT .\images\industria.png
+INPUT .\images\industria.png
+INPUT .\images\industria.png
+INPUT .\images\mantenimiento.png
+INPUT .\images\mantenimiento.png
+INPUT .\images\mantenimiento.png
+INPUT .\images\mantenimiento.png
+INPUT .\images\mantenimiento.png
+INPUT .\images\mantenimiento.png
+INPUT .\images\mantenimiento.png
 INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
 INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
 INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
@@ -300,5 +327,3 @@ INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
-INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
-INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
