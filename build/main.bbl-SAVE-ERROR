@@ -19,36 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{taylor2017prophet}{article}{}
-      \name{author}{2}{}{%
-        {{hash=3fe8a4077097ac3120ae4803d738cf86}{%
-           family={Taylor},
-           familyi={T\bibinitperiod},
-           given={Sean},
-           giveni={S\bibinitperiod}}}%
-        {{hash=a525646025b299bd9c5d7e38f7744f51}{%
-           family={Letham},
-           familyi={L\bibinitperiod},
-           given={Benjamin},
-           giveni={B\bibinitperiod}}}%
-      }
-      \strng{namehash}{9f5a2c12031279b0d6999f6c6b1d27cb}
-      \strng{fullhash}{a33f20926545d55085b04bde8d2882f3}
-      \strng{bibnamehash}{a33f20926545d55085b04bde8d2882f3}
-      \strng{authorbibnamehash}{a33f20926545d55085b04bde8d2882f3}
-      \strng{authornamehash}{9f5a2c12031279b0d6999f6c6b1d27cb}
-      \strng{authorfullhash}{a33f20926545d55085b04bde8d2882f3}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{09}
-      \field{title}{Forecasting at scale}
-      \field{year}{2017}
-      \verb{doi}
-      \verb 10.7287/peerj.preprints.3190v2
-      \endverb
-    \endentry
     \entry{truong2020selective}{article}{}
       \name{author}{3}{}{%
         {{hash=04cd10dd9e4abc2bfe33bab242d26213}{%

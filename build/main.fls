@@ -1,7 +1,7 @@
-PWD C:\Users\Lourdes\Desktop\Informe práctica\Documento
+PWD c:\Users\Lourdes\Desktop\Informe práctica\Documento
 INPUT C:\Users\Lourdes\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\main.tex
-OUTPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.log
+OUTPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.log
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
@@ -230,14 +230,51 @@ INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\re
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
-OUTPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
+OUTPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -248,14 +285,23 @@ INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
-OUTPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.pdf
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
-OUTPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+OUTPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.pdf
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+OUTPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+OUTPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.bcf
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.bbl
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.bbl
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.bbl
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.bbl
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.bbl
 INPUT .\images\logo_usach.png
 INPUT .\images\logo_usach.png
 INPUT .\images\logo_usach.png
@@ -284,13 +330,13 @@ INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti12.
 INPUT C:\Users\Lourdes\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-OUTPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
-INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+OUTPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.toc
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\images\EY_logo.png
 INPUT .\images\EY_logo.png
 INPUT .\images\EY_logo.png
@@ -312,18 +358,124 @@ INPUT .\images\mantenimiento.png
 INPUT .\images\mantenimiento.png
 INPUT .\images\mantenimiento.png
 INPUT .\images\mantenimiento.png
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
-INPUT C:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT .\images\workflowml.png
+INPUT .\images\workflowml.png
+INPUT .\images\workflowml.png
+INPUT .\images\workflowml.png
+INPUT .\images\workflowml.png
+INPUT .\images\workflowml.png
+INPUT .\images\workflowml.png
+INPUT .\images\3.png
+INPUT .\images\3.png
+INPUT .\images\3.png
+INPUT .\images\3.png
+INPUT .\images\3.png
+INPUT .\images\3.png
+INPUT .\images\3.png
+INPUT .\images\4.png
+INPUT .\images\4.png
+INPUT .\images\4.png
+INPUT .\images\4.png
+INPUT .\images\4.png
+INPUT .\images\4.png
+INPUT .\images\4.png
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt9.tfm
+INPUT .\images\5.png
+INPUT .\images\5.png
+INPUT .\images\5.png
+INPUT .\images\5.png
+INPUT .\images\5.png
+INPUT .\images\5.png
+INPUT .\images\5.png
+INPUT .\images\6.png
+INPUT .\images\6.png
+INPUT .\images\6.png
+INPUT .\images\6.png
+INPUT .\images\6.png
+INPUT .\images\6.png
+INPUT .\images\6.png
+INPUT .\images\8.png
+INPUT .\images\8.png
+INPUT .\images\8.png
+INPUT .\images\8.png
+INPUT .\images\8.png
+INPUT .\images\8.png
+INPUT .\images\8.png
+INPUT .\images\22.png
+INPUT .\images\22.png
+INPUT .\images\22.png
+INPUT .\images\22.png
+INPUT .\images\22.png
+INPUT .\images\22.png
+INPUT .\images\22.png
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT .\images\25.png
+INPUT .\images\25.png
+INPUT .\images\25.png
+INPUT .\images\25.png
+INPUT .\images\25.png
+INPUT .\images\25.png
+INPUT .\images\25.png
+INPUT .\images\results.png
+INPUT .\images\results.png
+INPUT .\images\results.png
+INPUT .\images\results.png
+INPUT .\images\results.png
+INPUT .\images\results.png
+INPUT .\images\results.png
+INPUT .\images\94.png
+INPUT .\images\94.png
+INPUT .\images\94.png
+INPUT .\images\94.png
+INPUT .\images\94.png
+INPUT .\images\94.png
+INPUT .\images\94.png
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.aux
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.out
+INPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.run.xml
+OUTPUT c:\Users\Lourdes\Desktop\Informe práctica\Documento\build\main.run.xml
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt9.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt9.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm7.pfb
+INPUT C:\Users\Lourdes\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm7.pfb
